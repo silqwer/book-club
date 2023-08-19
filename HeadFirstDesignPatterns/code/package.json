@@ -1,0 +1,15 @@
+{
+  "name": "HeadFirstDesignPatterns",
+  "version": "1.0.0",
+  "description": "책을 읽고 예제를 타입스크립트로 작성해보기",
+  "main": "index.js",
+  "author": "silqwer",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "scripts": {
+    "dev": "ts-node src/chapters/01/SimUduck.ts"
+  }
+}
